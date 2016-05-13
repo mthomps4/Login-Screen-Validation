@@ -1,0 +1,3 @@
+loginTest creates a sample form that enables and disables <span> "bubbles" dependant upon the Username and Password criteria entered by the user.
+Jquery checks to see if the form has a Username entered, has a password more than 8 characters long, and that the confirm password field matches the password entered above.
+If all criteria are met the "bubbles" dissapear and the submit button is enabled to send the information to the appropriate designation to be determined. 
